@@ -4,75 +4,114 @@
 \section{Background}
 \label{section:background}
 
-A background chapter in a book serves the purpose of providing essential context, information, or history that is relevant
-to the overall understanding of the book's subject matter. This chapter typically appears early in the book and aims to set the
-stage for the reader by offering background details that are crucial for comprehending the main narrative.
+Nowadays, almost everyone has to work in a group at some point, whether in academic settings, professional workplaces, or collaborative projects. In schools and universities, group assignments are common as they help develop teamwork, communication, and problem-solving skills. 
+
+Consequently, meeting deadlines without alienating team members remains an issue in collaborative work environments. A lot of conventional task management software, like Trello, Asana, or Monday.com, are great at organizing workflows, but for some reason, engagement and motivational features are absent. This mostly ends up with no one wanting to take part, procrastination, or some kind of negative workload distribution, where some people do the vast majority of work and others barely participate in the workflow.
+
+As a result, managing tasks efficiently while keeping team members engaged remains a persistent challenge in collaborative work environments. This is where gamification becomes a solution
+
+
+Gamification has emerged as a promising approach to improving productivity by incorporating game mechanics into non-game environments. Studies show that game-based motivation can increase task completion rates and enhance teamwork. However, existing gamified task management systems, such as Habitica, focus primarily on individual productivity rather than team-based collaboration. This gap highlights the need for a group-oriented gamified task management system that fosters engagement, accountability, and efficiency.
+
+To address these challenges, this project introduces WorkQuest, a group task management system that integrates gamification through a boss fight mechanic with AI-driven performance , assessing each team member. In WorkQuest, teams collaborate to complete tasks, which directly influence a boss battle, adding a strategic and motivational layer to teamwork.
 
 \section{Problem Statement}
 \label{section:problem-statement}
 
-A problem statement refers to a clear central issue,
-challenge, or question that the project aims to address or explore. It is a
-declaration that highlights the specific problem the author intends to examine,
-discuss, or solve throughout the course of the project.
+The problem this research will address is that task management tools are not very exciting, making it difficult to keep teams motivated and working efficiently. Most tools feel dull and do not encourage teamwork, which can lead to delays, incomplete tasks, and poor-quality work. Without a fun and interactive way to manage tasks, teams may lose focus, miss deadlines, and struggle to work effectively.
+
+Poorly managed tasks slow down projects, lower team performance, and make work feel boring. Gamification—bringing game-like elements into work—has become a popular way to boost motivation (Deterding et al., 2011). However, most gamified systems focus only on rewards without making the work itself enjoyable. This often creates short-term excitement that fades over time.
+
+Current tools like Kanban boards help organize tasks but do not make them fun. WorkQuest aims to solve this problem by using AI for assesses performance on an individual basis by offering feedback on strengths and areas of improvement. Players earn points based on their contributions, consistency, and collaboration and can exchange them for special items, themes, or enhancements in future gameplay. 
 
 \section{Solution Overview}
 \label{section:solution-overview}
 
-A software solution overview provides a high-level and
-concise description of a software product or system. It serves as an
-introduction to the software, offering a glimpse into its key features,
-functionalities, and the problems it aims to address. This overview is often
-presented in documentation, marketing materials, or other communication
-channels to give stakeholders, potential users, or decision-makers a quick
-understanding of what the software does and why it is valuable.
+% A software solution overview provides a high-level and
+% concise description of a software product or system. It serves as an
+% introduction to the software, offering a glimpse into its key features,
+% functionalities, and the problems it aims to address. This overview is often
+% presented in documentation, marketing materials, or other communication
+% channels to give stakeholders, potential users, or decision-makers a quick
+% understanding of what the software does and why it is valuable.
+WorkQuest is a collaboration task management solution that combines gamification and artificial intelligence-driven 
+performance assessment to address common issues with collaborative working systems. The platform aims to heighten team 
+engagement, improve accountability, and streamline overall productivity via a mix of game mechanics and performance metrics.
 
-\subsection{Features}
-\label{subsection:features}
+At its core,WorkQuest uses a boss fight mechanism wherein the boss attack is achieved by completing the teams work together towards
+complete tasks that directly contribute to their advancement throughout a fight against a strong boss. With every task completed, the team gets closer to the victory, with an accompanying strategic and motivating atmosphere to work together.
 
-\begin{enumerate}[leftmargin=80pt]
-    \item Feature Name: Short Description of Feature
-    \item Feature Name: Short Description of Feature
-\end{enumerate}
+As teams progress through the boss battle, they unlock rewards like achievement badges within the game and leader board become available
+Rewards both intrinsically extrinsic rewards, creating a sense of accomplishment and reinforcing positive team behaviors.
 
-\section{Target User}
-\label{section:target-user}
+In addition, WorkQuest incorporates AI-driven performance evaluation, which assesses individual contributions and provides 
+personalized feedback to each team member. This helps ensure accountability, 
+highlights areas for improvement, locate areas for development, and promote a continuous cycle of feedback for personal and team growth.
 
-The target user in a software project refers to the specific
-group or demographic of individuals for whom the software is designed and
-developed. Identifying the target user is a crucial step in the software
-development process as it helps the development team tailor the software to
-meet the needs, preferences, and requirements of that particular user group.
-Understanding the characteristics, behaviors, and expectations of the target
-users is essential for creating a user-friendly and effective software solution.
+With the inclusion of these features, WorkQuest not only helps solve the problem of disengaged team members, 
+procrastination but it also offers a dynamic and engaging task management 
+experience. It improves task completion rates, promotes teamwork and communication, and enhances overall motivation.
 
-Here are some key aspects related to defining the target user in a software project:
 
-Demographics: This includes factors such as age, gender,
-occupation, education level, and other demographic characteristics. Different
-age groups or professional backgrounds may have distinct preferences and
-requirements when it comes to software usability.
+\subsection{Features}  
+\label{subsection:features}  
 
-Skill Level: Consideration of the users' technical proficiency and
-familiarity with similar software or technology. The level of technical expertise
-can influence the complexity of the user interface, the need for tutorials or
-documentation, and other user support features.
+\begin{enumerate}[leftmargin=80pt]  
+    \item Project as a Boss Fight: Transforms task management into an interactive boss battle where tasks determine the boss’s strength and the team's progress affects the battle outcome.  
+    \begin{enumerate}  
+        \item Kanban Board: Users organize tasks visually, where completing tasks weakens the boss while delays strengthen it.  
+        \item Boss Mechanics: The boss dynamically changes based on team performance, rewarding efficiency and countering delays with penalties.  
+    \end{enumerate}  
 
-Industry or Domain: For software solutions designed for specific
-industries or domains, understanding the unique challenges, workflows, and
-terminology within that industry is crucial. Tailoring the software to meet
-industry-specific needs is often necessary.
+    \item Performance Evaluation and Rewards: Encourages productivity by scoring individual contributions and providing feedback on strengths and weaknesses.  
+    \begin{enumerate}  
+        \item Contribution Scoring and AI-driven pesonalize feedback: Users receive performance feedback and ratings based on task completion, consistency, and teamwork.  
+        \item Reward System: Earn points for achievements, which are displayed on the leaderboard, and earn achievement badges when milestones are reached.  
+        \item Work Review: Allows team members to review each other’s work, providing constructive feedback and improving collaboration. Reviews contribute to performance scores and help identify areas for improvement.  
+    \end{enumerate}  
+
+    \item AI-Powered Deadline Prediction: Assists users by forecasting their likelihood of meeting deadlines based on work patterns.  
+    \begin{enumerate}  
+        \item Progress Analysis: AI monitors past performance, task completion speed, and consistency to assess progress.  
+    \end{enumerate}  
+\end{enumerate}  
+
+
+\section{Target User}  
+\label{section:target-user}  
+
+The target users of WorkQuest are students working on small group projects in a university or school setting. These users are looking for a gamified and engaging approach to manage tasks, track progress, and enhance collaboration in a team environment.
+
+\begin{itemize}  
+    \item \textbf{Demographics:} WorkQuest is primarily directed at students aged 15 to 30 who are working on small group projects in university or high school settings. These students are already familiar with digital tools for task management. They are looking for tools that will allow for more interactive and motivating group collaboration. 
+      
+    \item \textbf{Skill Level:} The system is for users with basic technology skills. Those students who are comfortable with online platforms, such as Google Drive, Trello, or Microsoft Teams, will find WorkQuest easy to use. One does not require advanced technical knowledge for using this system, thereby allowing for a wider variety of users to access it. 
+      
+    \item \textbf{Industry or Domain:} WorkQuest is particularly beneficial in academic environments, featuring work in small group projects such as university courses, high-school assignments, and extracurricular group projects. It is flexible for a variety of fields of study allowing for a fun and organized way to finish academic tasks. 
+\end{itemize}
 
 \section{Benefit}
 \label{section:benefit}
+WorkQuest enhances group work and task completion by using gamification and AI-powered performance metrics. WorkQuest enables overcoming common challenges like disengagement, procrastination, and workload imbalance by the following benefits:
+\begin{enumerate} 
+    \item \textbf{Increased Engagement:} The boss fight feature adds task completion interaction and engagement in order to maintain teams in constant engagement.
+    \item \textbf{Increased Accountability:} With personalized performance review and contribution points, each member of the team is held responsible for their work. everyone is working proportionally,By assigning contribution points and offering tailored feedback, the system makes it clear who is meeting expectations and who may need improvement. This encourages team members to take ownership of their tasks, ensures equitable workload distribution, and reduces the likelihood of procrastination or shirking responsibilities.
+    \item \textbf{Continuous Growth and Improvement:} The feedback loop of performance based on AI ensures that every member receives tailor-made feedback regarding their strengths and weaknesses. empowering them to improve and grow continuously.
+    \item \textbf{Promotes Teamwork:} The game-like environment  encourages teamwork and communication to successfully complete tasks.
+\end{enumerate}
 
-Describe potential benefits of your solution.
+\section{Terminology}  
+\label{section:terminology}  
 
-\section{Terminology}
-\label{section:terminology}
+% In this section, terminology key to the clarity and consistency of the document are defined.
 
-Terminology refers to the specific language, jargon, or
-specialized vocabulary used to describe concepts, ideas, or subjects within a
-particular field or domain. The use of terminology is often essential for clarity
-and precision, especially in books that cover technical, scientific, academic, or
-specialized topics.
+\begin{itemize}  
+    \item \textbf{WorkQuest:} A gamified collaboration task management system designed to improve engagement, accountability, and productivity in small group projects. It incorporates a boss fight mechanic and AI-driven performance evaluation. 
+    \item \textbf{Gamification:} The use of game mechanics and principles in non-game contexts to engage users and solve problems.  
+    \item \textbf{Boss Fight Mechanism:} The central gamification feature in WorkQuest where completing tasks weakens a boss and progresses the team towards victory. Delays or unfinished tasks can strengthen the boss or cause penalties.  
+    \item \textbf{Kanban Board:} A visual task management tool that allows users to organize and prioritize tasks.
+    \item \textbf{AI-driven Performance Evaluation:} A system that uses artificial intelligence to assess individual contributions and provide personalized feedback to users based on their task completion, consistency, and teamwork.  
+    \item \textbf{Reward System:} A feature that allows users to earn points for their performance, which can be exchanged for achievement badges.
+    \item \textbf{Work Review:} A feature that allows team members to review and provide constructive feedback on each other’s work, helping to foster collaboration and identify areas for improvement.  
+    \item \textbf{AI-Powered Deadline Prediction:} A tool that uses AI to predict the likelihood of a team meeting its deadlines based on past performance and current task completion patterns.  
+\end{itemize}  
