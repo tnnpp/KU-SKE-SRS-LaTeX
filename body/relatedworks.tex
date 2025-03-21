@@ -13,47 +13,77 @@ the literature review section.
 
     \item \textbf{Competitor Overview}
     \begin{enumerate}
-        \item WorkQuest competes with:
-        \begin{itemize}
-            \item Trello \\ Kanban-based task management.
-            \item Asana \\ Workflow organization tool.
-            \item Monday.com \\ Customizable work OS.
-            \item Habitica \\ Gamified personal habit tracker.
-            \item Fukumon \\ Gamified productivity with rewards.
-        \end{itemize}
-    \end{enumerate}
-    
-    \item \textbf{Market Research}
-    \begin{enumerate}
-        \item \textbf{Primary Market}
-        \begin{itemize}
-            \item Use competitors’ services.
-        \end{itemize}
-        
-        \item \textbf{Secondary Market}
-        \begin{itemize}
-            \item Examine competitors’ websites.
-        \end{itemize}
-    \end{enumerate}
+        \item \textbf{Trello} \\
+        Trello is a task management tool that uses boards, lists, and cards. It helps users organize tasks visually and move them through different stages. It is simple, flexible, and good for teams or individuals.  
 
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.6\textwidth]{examples/Trello.png}
+            \caption{Trello}
+        \end{figure}
+
+        \item \textbf{Asana} \\
+        Asana is a tool for managing projects and tasks. Users can create task lists, set deadlines, and track progress. It supports different views like lists, boards, and timelines, making it useful for teams working on complex projects.  
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.6\textwidth]{examples/Asana.png}
+            \caption{Asana}
+        \end{figure}
+
+        \item \textbf{Monday.com} \\
+        Monday.com is a work management tool that helps teams plan and track work. It has customizable workflows, automation, and visual dashboards. Teams can organize tasks in a way that fits their needs.  
+
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.6\textwidth]{examples/Monday.png}
+            \caption{Monday.com}
+    \end{figure}
+
+    \item \textbf{Habitica} \\
+    Habitica is a habit tracker that turns daily tasks into a game. Users complete tasks to earn rewards and level up. It makes productivity fun by using game elements to build good habits.  
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{examples/Habitica.png}
+        \caption{Habitica}
+    \end{figure}
+
+    \item \textbf{Fucumon} \\
+    Fukumon is a gamified productivity app that gives rewards for completing tasks. It helps users stay motivated by making work feel more enjoyable and engaging.  
+
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{examples/Fucumon.png}
+        \caption{Fukumon}
+    \end{figure}   
+    \end{enumerate}
     \item \textbf{Product Feature Comparison}
 
     \medskip
     \noindent\begin{center}
     \begin{table}[ht]
         \centering
-        \begin{tabular}{lcccccc}
-        \hline
-        Features & WorkQuest & Trello & Asana & Monday.com & Habitica & Fukumon \\
-        \hline
-        Task Management & Yes & Yes & Yes & Yes & Yes & Yes \\
-        Gamification & Yes & No & No & No & Yes & Yes \\
-        AI Feedback & Yes & No & No & No & No & No \\
-        Collaboration Tools & Yes & Yes & Yes & Yes & No & Yes \\
-        Reward System & Yes & No & No & No & Yes & Yes \\
-        Customization & Yes & Yes & Yes & Yes & No & Yes \\
-        \hline
-        \end{tabular}
+        \footnotesize 
+        \rowcolors{2}{white}{gray!5}
+        \begin{tabularx}{\textwidth}{|X|X|X|X|X|X|X|}        
+            \hline
+            \rowcolor{gray!70}
+            Features & WorkQuest & Trello & Asana & Monday.com & Habitica & Fukumon \\
+            \hline
+            Task Management & Kanban boards, automation & Kanban boards & Task lists & Custom workflows & Daily tasks & To-do lists \\
+            \hline
+            Gamification & XP, rewards & No & No & No & RPG-style game & Rewards system \\
+            \hline
+            AI Feedback & Yes & No & No & No & No & No \\
+            \hline
+            Collaboration Task assignments & Chat, shared tasks & Boards, comments & Task assignments & Team dashboards & No & Shared tasks \\
+            \hline
+            Reward System & Leader board, badges & No & No & No & Coins, items & Points, achievements \\
+            \hline
+            Customization & Workflows, themes & Boards, labels & Templates & Dashboards & No & Task settings \\
+            \hline
+        \end{tabularx}
         \caption{Feature Comparison Among Competitors}
         \label{tab:feature-comparison}
     \end{table}
@@ -125,16 +155,15 @@ Competitor Analysis Framework (right image) for your project.
 
 \section{Literature Review}
 \label{section:literature-review}
-\begin{enumerate}
-    \item \textbf{Introduction} \\
-        Task management is a critical component of work productivity, yet many teams struggle with disengagement, procrastination, and inefficiencies in collaboration.
-        Traditional task management systems often rely on rigid structures that fail to maintain motivation over time. 
-        
-        In response to these challenges, gamification has emerged as a promising strategy to enhance engagement and performance. by integrating game-like elements—such as goals, rewards, competition, and collaboration—into workplace settings. Research indicates that gamification can increase work engagement by providing team members with a sense of autonomy, competence, and relatedness, thereby creating a fun and engaging work environment \cite{ncbi:pmc10905147}.
-        Additionally, studies have demonstrated practical advantages in several performance metrics resulting from the application of gamification strategies, supported by evidence from real-life case studies. \cite{Employee:Gamification}
+    Task management is a critical component of work productivity, yet many teams struggle with disengagement, procrastination, and inefficiencies in collaboration.
+    Traditional task management systems often rely on rigid structures that fail to maintain motivation over time. 
 
-        WorkQuest introduces a unique approach to task management by integrating gamification elements—specifically "boss fight" mechanics—and AI performance evaluation. In this system, Users collaborate to complete tasks that weaken and ultimately defeat a boss, adding a layer of strategic engagement. AI-driven analysis provides personalized performance feedback and deadline predictions, ensuring that users receive tailored insights to improve efficiency.
+    In response to these challenges, gamification has emerged as a promising strategy to enhance engagement and performance. by integrating game-like elements—such as goals, rewards, competition, and collaboration—into workplace settings. Research indicates that gamification can increase work engagement by providing team members with a sense of autonomy, competence, and relatedness, thereby creating a fun and engaging work environment \cite{ncbi:pmc10905147}.
+    Additionally, studies have demonstrated practical advantages in several performance metrics resulting from the application of gamification strategies, supported by evidence from real-life case studies. \cite{Employee:Gamification}
+
+    WorkQuest introduces a unique approach to task management by integrating gamification elements—specifically "boss fight" mechanics—and AI performance evaluation. In this system, Users collaborate to complete tasks that weaken and ultimately defeat a boss, adding a layer of strategic engagement. AI-driven analysis provides personalized performance feedback and deadline predictions, ensuring that users receive tailored insights to improve efficiency.
     
+\begin{enumerate}
     \item \textbf{Gamification in Task Management} \\
         Gamification, defined as the application of game-design elements and principles in non-game contexts, has emerged as a powerful strategy for enhancing productivity and engagement in working environment \cite{ncbi:pmc10905147} \cite{Employee:Gamification}.
         by incorporating goal-setting for direction, challenges to maintain interest, rewards to reinforce success, and feedback to guide improvement. These elements work together to keep participants engaged, boost performance, and align intrinsic and extrinsic motivations. \cite{Game:Reward}
@@ -165,15 +194,13 @@ Competitor Analysis Framework (right image) for your project.
     
     % \item Kanban Boards and Gamified Task Visualization
     
-    % \item \textbf{AI-Powered Deadline Prediction and Task Analysis}
-    
-    \item \textbf{Conclusion} \\
-    Gamification has emerged as a transformative approach to task management, addressing common workplace challenges such as disengagement, procrastination, and inefficiencies in collaboration. By integrating game-like elements—such as goals, rewards, and competition—organizations can foster a more engaging and productive work environment. Research consistently highlights the positive impact of gamification on motivation, teamwork, and overall performance.
-
-    The innovative incorporation of boss fight mechanics into task management systems, as seen in WorkQuest, further enhances engagement by introducing challenge-based progression and rewarding collaboration. Drawing from game design principles, boss fights create a sense of accomplishment and urgency, making work tasks more immersive and enjoyable. Additionally, the inclusion of a boss collection feature leverages psychological motivators like FOMO to sustain long-term engagement.
-
-    Furthermore, AI-driven performance evaluation provides personalized insights, improving efficiency and fairness in collaborative work. By utilizing machine learning and natural language processing, AI systems offer tailored feedback, mitigate biases, and enhance transparency in performance assessment. However, successful implementation requires balancing automation with human oversight to ensure fairness and adaptability.
-
-    Overall, the integration of gamification and AI-driven feedback mechanisms represents a promising evolution in task management. By aligning these strategies with organizational goals and employee preferences, businesses can cultivate a dynamic, motivated, and high-performing workforce.
+    \item \textbf{AI-Powered Deadline Prediction and Task Analysis}
     
 \end{enumerate}  
+Gamification has emerged as a transformative approach to task management, addressing common workplace challenges such as disengagement, procrastination, and inefficiencies in collaboration. By integrating game-like elements—such as goals, rewards, and competition—organizations can foster a more engaging and productive work environment. Research consistently highlights the positive impact of gamification on motivation, teamwork, and overall performance.
+
+The innovative incorporation of boss fight mechanics into task management systems, as seen in WorkQuest, further enhances engagement by introducing challenge-based progression and rewarding collaboration. Drawing from game design principles, boss fights create a sense of accomplishment and urgency, making work tasks more immersive and enjoyable. Additionally, the inclusion of a boss collection feature leverages psychological motivators like FOMO to sustain long-term engagement.
+
+Furthermore, AI-driven performance evaluation provides personalized insights, improving efficiency and fairness in collaborative work. By utilizing machine learning and natural language processing, AI systems offer tailored feedback, mitigate biases, and enhance transparency in performance assessment. However, successful implementation requires balancing automation with human oversight to ensure fairness and adaptability.
+
+Overall, the integration of gamification and AI-driven feedback mechanisms represents a promising evolution in task management. By aligning these strategies with organizational goals and employee preferences, businesses can cultivate a dynamic, motivated, and high-performing workforce.
