@@ -4,16 +4,13 @@
 \section{Background}
 \label{section:background}
 
-Nowadays, almost everyone has to work in a group at some point, whether in academic settings, professional workplaces, or collaborative projects. In schools and universities, group assignments are common as they help develop teamwork, communication, and problem-solving skills. 
+Consequently, in collaborative work environments, balancing timely task completion with good teamwork can be challenging.  If tasks are not distributed evenly or team members feel less involved, it may affect overall participation. Conventional task management software, like Trello, Asana, or Monday.com, excel at organizing workflows, but some teams may find them lacking in engagement and motivational features. Without engagement-driven elements, some teams may struggle with motivation, leading to uneven workload distribution or delays in task completion. This can sometimes lead to lower participation, procrastination, or an uneven workload, where some members take on more tasks while others contribute less. 
 
-Consequently, meeting deadlines without alienating team members remains an issue in collaborative work environments. A lot of conventional task management software, like Trello, Asana, or Monday.com, are great at organizing workflows, but for some reason, engagement and motivational features are absent. This mostly ends up with no one wanting to take part, procrastination, or some kind of negative workload distribution, where some people do the vast majority of work and others barely participate in the workflow.
+As a result, managing tasks efficiently while keeping team members engaged remains a persistent challenge in collaborative work environments. This is where gamification becomes a solution.
+ 
+Gamification has emerged as a promising approach to improving productivity by incorporating game mechanics into non-game environments. Research has shown that gamification can enhance user engagement and performance, with studies reporting a motivational increase of up to 48\% in gamified work environments. Studies show that game-based motivation can increase task completion rates and enhance teamwork. Habitica and other gamified platforms offer strong individual motivation tools, but teams looking for collaborative engagement may need additional features. However, existing gamified task management systems, such as Habitica, focus primarily on individual productivity rather than team-based collaboration. This gap highlights the need for a group-oriented gamified task management system that fosters engagement, accountability, and efficiency.
 
-As a result, managing tasks efficiently while keeping team members engaged remains a persistent challenge in collaborative work environments. This is where gamification becomes a solution
-
-
-Gamification has emerged as a promising approach to improving productivity by incorporating game mechanics into non-game environments. Studies show that game-based motivation can increase task completion rates and enhance teamwork. However, existing gamified task management systems, such as Habitica, focus primarily on individual productivity rather than team-based collaboration. This gap highlights the need for a group-oriented gamified task management system that fosters engagement, accountability, and efficiency.
-
-To address these challenges, this project introduces WorkQuest, a group task management system that integrates gamification through a boss fight mechanic with AI-driven performance , assessing each team member. In WorkQuest, teams collaborate to complete tasks, which directly influence a boss battle, adding a strategic and motivational layer to teamwork.
+To address these challenges, this project introduces WorkQuest, a group task management system that integrates gamification through a boss fight mechanic with AI-driven performance, assessing each team member. In WorkQuest, teams collaborate to complete tasks, which directly influence a boss battle, adding a strategic and motivational layer to teamwork.
 
 \section{Problem Statement}
 \label{section:problem-statement}
@@ -57,22 +54,26 @@ experience. It improves task completion rates, promotes teamwork and communicati
 \label{subsection:features}  
 
 \begin{enumerate}[leftmargin=80pt]  
-    \item Project as a Boss Fight: Transforms task management into an interactive boss battle where tasks determine the boss’s strength and the team's progress affects the battle outcome.  
+    \item \textbf{Boss Battle Workflow:} Transforms task management into an interactive boss battle where tasks determine the boss’s strength and the team's progress affects the battle outcome.  
     \begin{enumerate}  
-        \item Kanban Board: Users organize tasks visually, where completing tasks weakens the boss while delays weakens player.  
-        \item Boss Mechanics: The boss dynamically changes based on team performance, rewarding efficiency and countering delays with penalties.  
+        \item \textbf{Kanban Board:} Users organize tasks visually, where completing tasks weakens the boss while delays weakens player.  
+        \item \textbf{Boss Mechanics:} The boss is created by calculating all tasks with their assigned importance weight. Users battle the boss by completing tasks.
+        \begin{itemize}
+            \item \textbf{Attack Boss:} When a task is completed, player deals damage to the boss based on time, importance, and quality (review).
+            \item \textbf{Boss Attack:} The boss strikes back if the task is completed late.
+        \end{itemize}
     \end{enumerate}  
 
-    \item Performance Evaluation and Rewards: Encourages productivity by scoring individual contributions and providing feedback on strengths and weaknesses.  
+    \item \textbf{Success Meter:} Performance evaluation and rewards encourage productivity by assessing individual contributions and providing feedback on strengths and weaknesses.  
     \begin{enumerate}  
-        \item Contribution Scoring and AI-driven pesonalize feedback: Users receive performance feedback based on task completion, consistency, and teamwork.  
-        \item Reward System: Earn points for achievements, which are displayed on the leaderboard, and earn achievement badges when milestones are reached.  
-        \item Work Review: Allows team members to review each other’s work, providing constructive feedback and improving collaboration. Reviews contribute to performance scores and help identify areas for improvement.  
+        \item \textbf{Contribution Scoring and Pesonalize Feedback:} Users receive performance feedback based on task completion, consistency, and teamwork.  
+        \item \textbf{Reward System:} Earn points for achievements, which are displayed on the leaderboard, and earn achievement badges when milestones are reached.  
+        \item \textbf{Work Review:} Allows team members to review each other’s work, providing constructive feedback and improving collaboration. Reviews contribute to performance scores and help identify areas for improvement.  
     \end{enumerate}  
 
-    \item AI-Powered Deadline Prediction: Assists users by forecasting their likelihood of meeting deadlines based on work patterns.  
+    \item \textbf{Deadline Estimation:} Assists users by forecasting their likelihood of meeting deadlines based on work patterns.  
     \begin{enumerate}  
-        \item Progress Analysis: AI monitors past performance, task completion speed, and consistency to assess progress.  
+        \item \textbf{Progress Analysis:} Monitors past performance, task completion speed, and consistency to assess progress.  
     \end{enumerate}  
 \end{enumerate}  
 
@@ -106,12 +107,11 @@ WorkQuest enhances group work and task completion by using gamification and AI-p
 % In this section, terminology key to the clarity and consistency of the document are defined.
 
 \begin{itemize}  
-    \item \textbf{WorkQuest:} A gamified collaboration task management system designed to improve engagement, accountability, and productivity in small group projects. It incorporates a boss fight mechanic and AI-driven performance evaluation. 
     \item \textbf{Gamification:} The use of game mechanics and principles in non-game contexts to engage users and solve problems.  
     \item \textbf{Boss Fight Mechanism:} The central gamification feature in WorkQuest where completing tasks weakens a boss and progresses the team towards victory. Delays or unfinished tasks can strengthen the boss or cause penalties.  
     \item \textbf{Kanban Board:} A visual task management tool that allows users to organize and prioritize tasks.
     \item \textbf{AI-driven Performance Evaluation:} A system that uses artificial intelligence to assess individual contributions and provide personalized feedback to users based on their task completion, consistency, and teamwork.  
     \item \textbf{Reward System:} A feature that allows users to earn points for their performance, which can be exchanged for achievement badges.
     \item \textbf{Work Review:} A feature that allows team members to review and provide constructive feedback on each other’s work, helping to foster collaboration and identify areas for improvement.  
-    \item \textbf{AI-Powered Deadline Prediction:} A tool that uses AI to predict the likelihood of a team meeting its deadlines based on past performance and current task completion patterns.  
+    \item \textbf{Deadline Estimation:} A tool that tell the likelihood of a team meeting its deadlines based on past performance and current task completion patterns.  
 \end{itemize}  

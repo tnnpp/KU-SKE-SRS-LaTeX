@@ -14,11 +14,14 @@
 
 \begin{table}[ht]
     \centering
-    \begin{tabularx}{\linewidth}{lX}
+    \rowcolors{2}{white}{gray!5}
+    \begin{tabularx}{\linewidth}{|l|X|}
+        \rowcolor{gray!70}
         \hline
         \textbf{Type} & \textbf{Stakeholders} \\ 
         \hline
         \textbf{Internal Stakeholders} & Development Team, University Students, Professors, Academic Institutions \\ 
+        \hline
         \textbf{External Stakeholders} & Investors, Educational Technology Companies, Potential Business Partners, Secondary School Students, General Public \\ 
         \hline
     \end{tabularx}
@@ -30,13 +33,18 @@
 
 \begin{table}[ht]
     \centering
-    \begin{tabularx}{\linewidth}{lX}
+    \rowcolors{2}{white}{gray!10}
+    \begin{tabularx}{\linewidth}{|l|X|}
+        \rowcolor{gray!70}
         \hline
         \textbf{Importance Level} & \textbf{Stakeholders} \\ 
         \hline
         High Power, High Interest & Development Team \\ 
+        \hline
         High Power, Low Interest & Investors, Educational Technology Companies, Potential Business Partners \\ 
+        \hline
         Low Power, High Interest & University Students, Professors, Academic Institutions, Secondary School Students \\ 
+        \hline
         Low Power, Low Interest & General Public \\ 
         \hline
     \end{tabularx}
@@ -47,19 +55,29 @@
 
 \subsection{Stakeholder Analysis}
 
-\begin{table}[ht]
+\begin{table}[H]
     \centering
-    \begin{tabularx}{\linewidth}{lXlXlX}
+    \small
+    \rowcolors{2}{white}{gray!10}
+    \begin{tabularx}{\textwidth}{|>{\raggedright\arraybackslash}p{2.1cm}|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}X|>{\raggedright\arraybackslash}p{2.3cm}|}
+        \rowcolor{gray!70}
         \hline
         \textbf{Name} & \textbf{Levels} & \textbf{Contact} & \textbf{Priorities} & \textbf{Impact} & \textbf{Strategy} \\ 
         \hline
         Development Team & High Power, High Interest & Internal Communication & System development and maintenance & Directly responsible for project success & Daily meetings, teamwork \\ 
+        \hline
         University Students & Low Power, High Interest & University Network & Effective learning tool & Key users, provide feedback & User feedback sessions, surveys \\ 
+        \hline
         Professors and Academic Institutions & High Power, High Interest & Academic Channels & Integration with learning & Influence on adoption & Collaboration, academic research \\ 
+        \hline
         Investors & High Power, Low Interest & Business Meetings & Financial return & Provides funding support & Reports, presentations \\ 
+        \hline
         Educational Technology Companies & High Power, Low Interest & Industry Contacts & Potential partnerships & Resource and tech support & Discussions, collaborations \\ 
+        \hline
         Potential Business Partners & High Power, Low Interest & Business Network & Business opportunities & Scaling and market expansion & Networking, agreements \\ 
+        \hline
         Secondary School Students & Low Power, High Interest & Educational Outreach & Future user base & Potential adopters & Awareness campaigns, trials \\ 
+        \hline
         General Public & Low Power, Low Interest & Public Media & Awareness & Indirect impact & Social media, marketing \\ 
         \hline
     \end{tabularx}
@@ -87,9 +105,9 @@
     \item As a team member, I want to see a leaderboard ranking, so that I can compare my contributions with my teammates.
 \end{itemize}
 
-\subsection{Flow Track AI}
+\subsection{Flow Track}
 \begin{itemize}
-    \item As a student, I want AI to predict if I am at risk of missing deadlines, so that I can plan my time better.
+    \item As a student, I want the system to estimate my risk of missing deadlines so that I can plan my time better.
 \end{itemize}
 
 \subsection{Target Users' Needs}
@@ -124,14 +142,50 @@ requirements from the perspective of end users.
 appropriate type of use case for each scenario (brief, casual, and fully-dressed
 use case)./>
 
+\newpage
 \section{User Interface Design}
 \label{section:user-interface-design}
-<TIP: Put the initial design of your application here. You can
-showcase a detailed design of a specific page or a sitemap of your application.
-See an example below./>
+% <TIP: Put the initial design of your application here. You can
+% showcase a detailed design of a specific page or a sitemap of your application.
+% See an example below./>
+\begin{enumerate}
+    \item \textbf{Home Page} \\
+    The first page that the user lands on after logging in includes the user's profile, statistics, leaderboard, and their projects.    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{mockups/Home.png}
+        \caption{Home Page}
+    \end{figure}
+    
+    \item \textbf{Project Page} \\
+        The page where the user manages their projects while fighting a boss, featuring a Kanban board and a boss graphic.    
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.6\textwidth]{mockups/Project.png}
+            \caption{Project Page}
+        \end{figure}
+        \newpage
 
-\begin{figure}[h]
-    \centering
-    \includegraphics[width=0.8\textwidth]{examples/user-interface-design.png}
-    \caption{User Interface Design}
-\end{figure}
+    \item \textbf{Feedback Page} \\
+        The page displayed at the end of the project, visualizing all of the user's statistics, including boss fight performance, personalized feedback, and suggestions.    
+        \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.5\textwidth]{mockups/Feedback.png}
+            \caption{Feedback Page}
+        \end{figure}
+
+    \item \textbf{Dashboard Page} \\
+    The page that shows your project statistics and progress, including a damage pie chart, estimated finish time, and a work speed time series.    
+    \begin{figure}[H]
+            \centering
+            \includegraphics[width=0.6\textwidth]{mockups/Dash_Board.png}
+            \caption{Dashboard Page}
+        \end{figure}
+
+\end{enumerate}
+
+% \begin{figure}[h]
+%     \centering
+%     \includegraphics[width=0.8\textwidth]{examples/user-interface-design.png}
+%     \caption{User Interface Design}
+% \end{figure}
