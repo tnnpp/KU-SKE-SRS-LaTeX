@@ -11,8 +11,8 @@
 % affected by the outcomes of your project.
 
 \subsection{Types of Stakeholders}
-
-\begin{table}[ht]
+displays the categorization of stakeholders based on their power and interest in the project, using a matrix format to identify key groups and their level of influence and involvement.
+\begin{table}[H]
     \centering
     \rowcolors{2}{white}{gray!5}
     \begin{tabularx}{\linewidth}{|l|X|}
@@ -28,10 +28,11 @@
     \caption{Stakeholder Types}
     \label{tab:stakeholder-types}
 \end{table}
-
+\newpage
 \subsection{Stakeholder Importance}
+Table \ref{tab:stakeholder-importance} displays the categorization of stakeholders based on their power and interest in the project, using a matrix format to identify key groups and their level of influence and involvement.
 
-\begin{table}[ht]
+\begin{table}[H]
     \centering
     \rowcolors{2}{white}{gray!10}
     \begin{tabularx}{\linewidth}{|l|X|}
@@ -52,9 +53,10 @@
     \label{tab:stakeholder-importance}
 \end{table}
 
+\newpage
 
 \subsection{Stakeholder Analysis}
-
+Table \ref{tab:stakeholder-analysis} provides a detailed stakeholder analysis, categorizing stakeholders based on their power, interest, and influence on the project.
 \begin{table}[H]
     \centering
     \small
@@ -148,39 +150,47 @@ use case)./>
 % <TIP: Put the initial design of your application here. You can
 % showcase a detailed design of a specific page or a sitemap of your application.
 % See an example below./>
+
+\label{section:user-interface-design}
+
 \begin{enumerate}
+
     \item \textbf{Home Page} \\
-    The first page that the user lands on after logging in includes the user's profile, statistics, leaderboard, and their projects.    
+    As shown in Figure~\ref{fig:home}, this is the first page that the user lands on after logging in. It includes the user's profile, statistics, leaderboard, and their projects.    
     \begin{figure}[H]
         \centering
         \includegraphics[width=0.5\textwidth]{mockups/Home.png}
         \caption{Home Page}
+        \label{fig:home}
     \end{figure}
     
     \item \textbf{Project Page} \\
-        The page where the user manages their projects while fighting a boss, featuring a Kanban board and a boss graphic.    
-        \begin{figure}[H]
-            \centering
-            \includegraphics[width=0.6\textwidth]{mockups/Project.png}
-            \caption{Project Page}
-        \end{figure}
-        \newpage
+    As shown in Figure~\ref{fig:project}, this is the page where the user manages their projects while fighting a boss. It features a Kanban board and a boss graphic.    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.6\textwidth]{mockups/Project.png}
+        \caption{Project Page}
+        \label{fig:project}
+    \end{figure}
+    \newpage
 
     \item \textbf{Feedback Page} \\
-        The page displayed at the end of the project, visualizing all of the user's statistics, including boss fight performance, personalized feedback, and suggestions.    
-        \begin{figure}[H]
-            \centering
-            \includegraphics[width=0.5\textwidth]{mockups/Feedback.png}
-            \caption{Feedback Page}
-        \end{figure}
+    As shown in Figure~\ref{fig:feedback}, this page is displayed at the end of the project. It visualizes all of the user's statistics, including boss fight performance, personalized feedback, and suggestions.    
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.5\textwidth]{mockups/Feedback.png}
+        \caption{Feedback Page}
+        \label{fig:feedback}
+    \end{figure}
 
     \item \textbf{Dashboard Page} \\
-    The page that shows your project statistics and progress, including a damage pie chart, estimated finish time, and a work speed time series.    
+    As shown in Figure~\ref{fig:dashboard}, this page shows your project statistics and progress, including a damage pie chart, estimated finish time, and a work speed time series.    
     \begin{figure}[H]
-            \centering
-            \includegraphics[width=0.6\textwidth]{mockups/Dash_Board.png}
-            \caption{Dashboard Page}
-        \end{figure}
+        \centering
+        \includegraphics[width=0.6\textwidth]{mockups/Dash_Board.png}
+        \caption{Dashboard Page}
+        \label{fig:dashboard}
+    \end{figure}
 
 \end{enumerate}
 

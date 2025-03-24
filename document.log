@@ -1,0 +1,1068 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (MiKTeX 25.2) (preloaded format=pdflatex 2025.3.7)  24 MAR 2025 22:43
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/PC/Documents/Senior Project/KU-SKE-SRS-LaTeX/document.tex"
+(c:/Users/PC/Documents/Senior Project/KU-SKE-SRS-LaTeX/document.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2024/06/29 v1.4n Standard LaTeX document class
+(C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@chapter=\count197
+\c@section=\count198
+\c@subsection=\count199
+\c@subsubsection=\count266
+\c@paragraph=\count267
+\c@subparagraph=\count268
+\c@figure=\count269
+\c@table=\count270
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+) (skesrsstyles.sty (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count271
+\Gm@cntv=\count272
+\c@Gm@tempcnt=\count273
+\Gm@bindingoffset=\dimen142
+\Gm@wd@mp=\dimen143
+\Gm@odd@mp=\dimen144
+\Gm@even@mp=\dimen145
+\Gm@layoutwidth=\dimen146
+\Gm@layoutheight=\dimen147
+\Gm@layouthoffset=\dimen148
+\Gm@layoutvoffset=\dimen149
+\Gm@dimlist=\toks18
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+\f@nch@headwidth=\skip51
+\f@nch@offset@elh=\skip52
+\f@nch@offset@erh=\skip53
+\f@nch@offset@olh=\skip54
+\f@nch@offset@orh=\skip55
+\f@nch@offset@elf=\skip56
+\f@nch@offset@erf=\skip57
+\f@nch@offset@olf=\skip58
+\f@nch@offset@orf=\skip59
+\f@nch@height=\skip60
+\f@nch@footalignment=\skip61
+\f@nch@widthL=\skip62
+\f@nch@widthC=\skip63
+\f@nch@widthR=\skip64
+\@temptokenb=\toks19
+)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\mathptmx.sty
+Package: mathptmx 2020/03/25 PSNFSS-v9.3 Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count274
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count275
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\@linkdim=\dimen150
+\Hy@linkcounter=\count276
+\Hy@pagecounter=\count277
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count278
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count279
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen151
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count280
+\Field@Width=\dimen152
+\Fld@charsize=\dimen153
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count281
+\c@Item=\count282
+\c@Hfootnote=\count283
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
+with kernel methods
+)
+\Fld@listcount=\count284
+\c@bookmark@seq@number=\count285
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 285.
+)
+\Hy@SectionHShift=\skip65
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.sty
+Package: microtype 2025/02/11 v3.2a Micro-typographical refinements (RS)
+\MT@toks=\toks22
+\MT@tempbox=\box52
+\MT@count=\count286
+LaTeX Info: Redefining \noprotrusionifhmode on input line 1087.
+LaTeX Info: Redefining \leftprotrusion on input line 1088.
+\MT@prot@toks=\toks23
+LaTeX Info: Redefining \rightprotrusion on input line 1107.
+LaTeX Info: Redefining \textls on input line 1449.
+\MT@outer@kern=\dimen154
+LaTeX Info: Redefining \microtypecontext on input line 2053.
+LaTeX Info: Redefining \textmicrotypecontext on input line 2070.
+\MT@listname@count=\count287
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype-pdftex.def
+File: microtype-pdftex.def 2025/02/11 v3.2a Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 944.
+LaTeX Info: Redefining \lslig on input line 944.
+\MT@outer@space=\skip66
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/microtype\microtype.cfg
+File: microtype.cfg 2025/02/11 v3.2a microtype main configuration file (RS)
+)
+LaTeX Info: Redefining \microtypesetup on input line 3065.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/cleveref\cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+Package cleveref Info: `hyperref' support loaded on input line 2370.
+LaTeX Info: Redefining \cref on input line 2370.
+LaTeX Info: Redefining \Cref on input line 2370.
+LaTeX Info: Redefining \crefrange on input line 2370.
+LaTeX Info: Redefining \Crefrange on input line 2370.
+LaTeX Info: Redefining \cpageref on input line 2370.
+LaTeX Info: Redefining \Cpageref on input line 2370.
+LaTeX Info: Redefining \cpagerefrange on input line 2370.
+LaTeX Info: Redefining \Cpagerefrange on input line 2370.
+LaTeX Info: Redefining \labelcref on input line 2370.
+LaTeX Info: Redefining \labelcpageref on input line 2370.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen155
+\Gin@req@width=\dimen156
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2024/10/17 v2.6g Tabular extension package (FMi)
+\col@sep=\dimen157
+\ar@mcellbox=\box53
+\extrarowheight=\dimen158
+\NC@list=\toks24
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box54
+)
+\TX@col@width=\dimen159
+\TX@old@table=\dimen160
+\TX@old@col=\dimen161
+\TX@target=\dimen162
+\TX@delta=\dimen163
+\TX@cols=\count288
+\TX@ftn=\toks25
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip69
+\enit@outerparindent=\dimen164
+\enit@toks=\toks26
+\enit@inbox=\box55
+\enit@count@id=\count289
+\enitdp@description=\count290
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count291
+\float@exts=\toks27
+\float@box=\box56
+\@float@everytoks=\toks28
+\@floatcapt=\box57
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2024/07/06 v1.0i Color table columns (DPC)
+\everycr=\toks29
+\minrowclearance=\skip70
+\rownum=\count292
+)
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 39.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count293
+\l__pdf_internal_box=\box58
+) (document.aux (partials/cover.aux) (partials/innercover.aux) (body/abstract.aux) (body/acknowledgement.aux) (body/introduction.aux) (body/relatedworks.aux) (body/requirementanalysis.aux
+
+LaTeX Warning: Label `section:user-interface-design' multiply defined.
+
+
+LaTeX Warning: Label `section:user-interface-design@cref' multiply defined.
+
+) (body/softwarearchitecture.aux) (body/softwaredevelopment.aux) (body/deliverable.aux) (body/discussion.aux) (body/appendices.aux))
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=-7.86334pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(108.405pt, 416.83289pt, 72.26999pt)
+* v-part:(T,H,B)=(108.405pt, 664.37186pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=416.83289pt
+* \textheight=664.37186pt
+* \oddsidemargin=36.13501pt
+* \evensidemargin=36.13501pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\big@size=\dimen165
+Package hyperref Info: Link coloring OFF on input line 39.
+(document.out) (document.out)
+\@outlinefile=\write3
+\openout3 = `document.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Applying patch `item' on input line 39.
+Package microtype Info: Applying patch `toc' on input line 39.
+Package microtype Info: Applying patch `eqnum' on input line 39.
+Package microtype Info: Applying patch `footnote' on input line 39.
+Package microtype Info: Applying patch `verbatim' on input line 39.
+LaTeX Info: Redefining \microtypesetup on input line 39.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 39.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ptm.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count294
+\scratchdimen=\dimen166
+\scratchbox=\box59
+\nofMPsegments=\count295
+\nofMParguments=\count296
+\everyMPshowfont=\toks30
+\MPscratchCnt=\count297
+\MPscratchDim=\dimen167
+\MPnumerator=\count298
+\makeMPintoPDFobject=\count299
+\everyMPtoPDFconversion=\toks31
+) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\openout2 = `partials/cover.aux'.
+
+ (partials/cover.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<assets/ku/symbol.png, id=191, 308.352pt x 308.352pt>
+File: assets/ku/symbol.png Graphic file (type png)
+<use assets/ku/symbol.png>
+Package pdftex.def Info: assets/ku/symbol.png  used on input line 5.
+(pdftex.def)             Requested size: 122.85876pt x 122.85869pt.
+
+
+[1
+
+
+
+
+{C:/Users/PC/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r.enc} <./assets/ku/symbol.png>])
+\openout2 = `partials/innercover.aux'.
+
+ (partials/innercover.tex
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(108.405pt, 664.37186pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=664.37186pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-0.86499pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ztmcm.fd) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omlztmcm.fd) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omsztmcm.fd) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\omxztmcm.fd) (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ot1ptm.fd)
+Underfull \hbox (badness 10000) in alignment at lines 40--40
+[][] 
+ []
+
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 40--41
+[][] 
+ []
+
+
+
+[2
+
+
+
+
+
+])
+\openout2 = `body/abstract.aux'.
+
+ (body/abstract.tex)
+
+[1
+
+
+
+
+]
+\openout2 = `body/acknowledgement.aux'.
+
+ (body/acknowledgement.tex)
+
+[2
+
+
+
+] (document.toc
+
+[3
+
+
+])
+\tf@toc=\write4
+\openout4 = `document.toc'.
+
+
+
+[4] (document.lot)
+\tf@lot=\write5
+\openout5 = `document.lot'.
+
+
+
+[5] (document.lof)
+\tf@lof=\write6
+\openout6 = `document.lof'.
+
+
+
+[6]
+\openout2 = `body/introduction.aux'.
+
+ (body/introduction.tex
+Chapter 1.
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.13 T
+      o address these challenges, this project introduces WorkQuest, a group... [1
+
+
+]
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.37 
+      [2]
+
+[3]
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 62.
+ (C:\Users\PC\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 1308) in paragraph at lines 69--70
+[]\T1/ptm/b/n/14.4 (+20) Contribution Scor-ing and Pes-on-al-ize Feed-back:
+ []
+
+
+
+[4]
+
+[5]
+Underfull \hbox (badness 1173) in paragraph at lines 111--112
+[]\T1/ptm/b/n/14.4 (+20) Boss Fight Mech-a-nism: \T1/ptm/m/n/14.4 (+20) The cen-tral gam-i-fi-ca-tion fea-ture in
+ []
+
+)
+
+[6]
+\openout2 = `body/relatedworks.aux'.
+
+ (body/relatedworks.tex
+Chapter 2.
+<./assets/examples/Trello.png, id=363, 1445.4pt x 903.375pt>
+File: ./assets/examples/Trello.png Graphic file (type png)
+<use ./assets/examples/Trello.png>
+Package pdftex.def Info: ./assets/examples/Trello.png  used on input line 20.
+(pdftex.def)             Requested size: 250.95476pt x 156.83861pt.
+<./assets/examples/Asana.png, id=365, 1445.4pt x 903.375pt>
+File: ./assets/examples/Asana.png Graphic file (type png)
+<use ./assets/examples/Asana.png>
+Package pdftex.def Info: ./assets/examples/Asana.png  used on input line 29.
+(pdftex.def)             Requested size: 250.95476pt x 156.83861pt.
+
+Underfull \vbox (badness 3679) has occurred while \output is active []
+
+
+
+[7
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.32         \end{figure}
+                          <./assets/examples/Trello.png>]
+<./assets/examples/Monday.png, id=374, 1445.4pt x 902.37125pt>
+File: ./assets/examples/Monday.png Graphic file (type png)
+<use ./assets/examples/Monday.png>
+Package pdftex.def Info: ./assets/examples/Monday.png  used on input line 38.
+(pdftex.def)             Requested size: 250.95476pt x 156.66435pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+[8
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.42 
+      <./assets/examples/Asana.png>]
+<./assets/examples/Habitica.png, id=383, 1445.4pt x 903.375pt>
+File: ./assets/examples/Habitica.png Graphic file (type png)
+<use ./assets/examples/Habitica.png>
+Package pdftex.def Info: ./assets/examples/Habitica.png  used on input line 47.
+(pdftex.def)             Requested size: 250.95476pt x 156.83861pt.
+<./assets/examples/Fucumon.png, id=385, 1445.4pt x 902.37125pt>
+File: ./assets/examples/Fucumon.png Graphic file (type png)
+<use ./assets/examples/Fucumon.png>
+Package pdftex.def Info: ./assets/examples/Fucumon.png  used on input line 56.
+(pdftex.def)             Requested size: 250.95476pt x 156.66435pt.
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
+
+
+[9
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60     \end{enumerate}
+                        
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.60     \end{enumerate}
+                         <./assets/examples/Monday.png> <./assets/examples/Habitica.png>]
+
+[10
+pdfTeX warning (ext4): destination with the same identifier (name{figure.2.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.71         \end{itemize}
+                           <./assets/examples/Fucumon.png>]
+
+[11
+pdfTeX warning (ext4): destination with the same identifier (name{table.2.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.135             \item I
+                         ncreasing demand for gamified productivity.]
+
+[12]
+
+[13]
+
+[14])
+
+[15]
+\openout2 = `body/requirementanalysis.aux'.
+
+ (body/requirementanalysis.tex
+Chapter 3.
+
+
+[16
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.31 \newpage
+             ]
+
+[17
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.56 \newpage
+             ]
+Overfull \hbox (3.13147pt too wide) in paragraph at lines 85--85
+[]|\T1/ptm/m/n/12 (-20) Development 
+ []
+
+
+Overfull \hbox (0.67787pt too wide) in paragraph at lines 85--85
+[]|\T1/ptm/m/n/12 (-20) Collaboration, 
+ []
+
+
+Overfull \hbox (1.61165pt too wide) in paragraph at lines 85--85
+[]|\T1/ptm/m/n/12 (-20) Educational 
+ []
+
+
+
+[18
+pdfTeX warning (ext4): destination with the same identifier (name{table.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.96     \item A
+                s a team leader, I want to assign tasks to my teammates, so ...]
+
+[19]
+
+[20]
+<./assets/mockups/Home.png, id=481, 1517.67pt x 942.52126pt>
+File: ./assets/mockups/Home.png Graphic file (type png)
+<use ./assets/mockups/Home.png>
+Package pdftex.def Info: ./assets/mockups/Home.png  used on input line 162.
+(pdftex.def)             Requested size: 209.12683pt x 129.86673pt.
+<./assets/mockups/Project.png, id=483, 1517.67pt x 942.52126pt>
+File: ./assets/mockups/Project.png Graphic file (type png)
+<use ./assets/mockups/Project.png>
+Package pdftex.def Info: ./assets/mockups/Project.png  used on input line 171.
+(pdftex.def)             Requested size: 250.95476pt x 155.84007pt.
+
+
+[21
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.175     \newpage
+                  
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.175     \newpage
+                   <./assets/mockups/Home.png> <./assets/mockups/Project.png>]
+<./assets/mockups/Feedback.png, id=493, 1517.67pt x 1354.05875pt>
+File: ./assets/mockups/Feedback.png Graphic file (type png)
+<use ./assets/mockups/Feedback.png>
+Package pdftex.def Info: ./assets/mockups/Feedback.png  used on input line 181.
+(pdftex.def)             Requested size: 209.12683pt x 186.57104pt.
+<./assets/mockups/Dash_Board.png, id=495, 1517.67pt x 942.52126pt>
+File: ./assets/mockups/Dash_Board.png Graphic file (type png)
+<use ./assets/mockups/Dash_Board.png>
+Package pdftex.def Info: ./assets/mockups/Dash_Board.png  used on input line 190.
+(pdftex.def)             Requested size: 250.95476pt x 155.84007pt.
+)
+
+[22
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.72     \include{body/requirementanalysis}
+                                           
+pdfTeX warning (ext4): destination with the same identifier (name{figure.3.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.72     \include{body/requirementanalysis}
+                                            <./assets/mockups/Feedback.png> <./assets/mockups/Dash_Board.png>]
+\openout2 = `body/softwarearchitecture.aux'.
+
+ (body/softwarearchitecture.tex
+Chapter 4.
+
+
+[23
+
+
+
+]
+<./assets/ai_components/Work_Speed.png, id=509, 856.3995pt x 253.9086pt>
+File: ./assets/ai_components/Work_Speed.png Graphic file (type png)
+<use ./assets/ai_components/Work_Speed.png>
+Package pdftex.def Info: ./assets/ai_components/Work_Speed.png  used on input line 43.
+(pdftex.def)             Requested size: 250.95476pt x 74.40259pt.
+<./assets/ai_components/Strenght.png, id=510, 804.1242pt x 213.1965pt>
+File: ./assets/ai_components/Strenght.png Graphic file (type png)
+<use ./assets/ai_components/Strenght.png>
+Package pdftex.def Info: ./assets/ai_components/Strenght.png  used on input line 53.
+(pdftex.def)             Requested size: 250.95476pt x 66.5359pt.
+<./assets/ai_components/Quality.png, id=511, 578.16pt x 55.1661pt>
+File: ./assets/ai_components/Quality.png Graphic file (type png)
+<use ./assets/ai_components/Quality.png>
+Package pdftex.def Info: ./assets/ai_components/Quality.png  used on input line 63.
+(pdftex.def)             Requested size: 250.95476pt x 23.94485pt.
+
+
+[24
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.65     \end{figure}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.2}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.65     \end{figure}
+                      <./assets/ai_components/Work_Speed.png> <./assets/ai_components/Strenght.png>]
+<./assets/ai_components/Teamwork.png, id=519, 346.896pt x 127.4361pt>
+File: ./assets/ai_components/Teamwork.png Graphic file (type png)
+<use ./assets/ai_components/Teamwork.png>
+Package pdftex.def Info: ./assets/ai_components/Teamwork.png  used on input line 74.
+(pdftex.def)             Requested size: 250.95476pt x 92.19142pt.
+<./assets/ai_components/Diligence.png, id=520, 648.2619pt x 127.4361pt>
+File: ./assets/ai_components/Diligence.png Graphic file (type png)
+<use ./assets/ai_components/Diligence.png>
+Package pdftex.def Info: ./assets/ai_components/Diligence.png  used on input line 84.
+(pdftex.def)             Requested size: 250.95476pt x 49.33235pt.
+<./assets/ai_components/Work_Load.png, id=521, 527.571pt x 118.2819pt>
+File: ./assets/ai_components/Work_Load.png Graphic file (type png)
+<use ./assets/ai_components/Work_Load.png>
+Package pdftex.def Info: ./assets/ai_components/Work_Load.png  used on input line 94.
+(pdftex.def)             Requested size: 250.95476pt x 56.26389pt.
+
+
+[25
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.3}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.96     \end{figure}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.4}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.96     \end{figure}
+                     
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.5}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.96     \end{figure}
+                      <./assets/ai_components/Quality.png> <./assets/ai_components/Teamwork.png> <./assets/ai_components/Diligence.png>]
+<./assets/ai_components/Suggestion.png, id=529, 546.1203pt x 353.1594pt>
+File: ./assets/ai_components/Suggestion.png Graphic file (type png)
+<use ./assets/ai_components/Suggestion.png>
+Package pdftex.def Info: ./assets/ai_components/Suggestion.png  used on input line 108.
+(pdftex.def)             Requested size: 250.95476pt x 162.28284pt.
+
+
+[26
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.6}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 
+      
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.7}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.123 
+       <./assets/ai_components/Work_Load.png> <./assets/ai_components/Suggestion.png>]
+
+[27]
+<./assets/ai_components/example_input.png, id=540, 1630.09pt x 507.8975pt>
+File: ./assets/ai_components/example_input.png Graphic file (type png)
+<use ./assets/ai_components/example_input.png>
+Package pdftex.def Info: ./assets/ai_components/example_input.png  used on input line 163.
+(pdftex.def)             Requested size: 376.42575pt x 117.28671pt.
+)
+
+[28
+pdfTeX warning (ext4): destination with the same identifier (name{figure.4.8}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.73     \include{body/softwarearchitecture}
+                                             <./assets/ai_components/example_input.png>]
+
+[29]
+\openout2 = `body/softwaredevelopment.aux'.
+
+ (body/softwaredevelopment.tex
+Chapter 5.
+<./assets/examples/tech-stack.png, id=553, 613.54219pt x 613.54219pt>
+File: ./assets/examples/tech-stack.png Graphic file (type png)
+<use ./assets/examples/tech-stack.png>
+Package pdftex.def Info: ./assets/examples/tech-stack.png  used on input line 13.
+(pdftex.def)             Requested size: 209.12683pt x 209.12585pt.
+
+Underfull \vbox (badness 1168) has occurred while \output is active []
+
+
+
+[30
+
+
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{figure.5.1}) has been already used, duplicate ignored
+<argument> ...shipout:D \box_use:N \l_shipout_box 
+                                                  \__shipout_drop_firstpage_...
+l.21 \section
+             {Progress Tracking Report} <./assets/examples/tech-stack.png>])
+
+[31]
+\openout2 = `body/deliverable.aux'.
+
+ (body/deliverable.tex
+Chapter 6.
+)
+
+[32
+
+
+
+]
+\openout2 = `body/discussion.aux'.
+
+ (body/discussion.tex
+Chapter 7.
+)
+
+[33
+
+
+
+] (common/onetextpage.tex)
+
+[34
+
+
+
+] (document.bbl
+Overfull \hbox (270.29842pt too wide) in paragraph at lines 69--73
+\T1/ptm/m/n/14.4 (-20) product-[]design-[]and-[]psychology-[]the-[]exploitation-[]of-[]fear-[]of-[]missing-[]out-[]fomo-[]in-[]video-[]game-[]design-[]5b15a8df6cda$[] 
+ []
+
+
+
+[35
+
+])
+
+[36]
+\openout2 = `body/appendices.aux'.
+
+ (body/appendices.tex (common/onetextpage.tex)
+\c@nappendix=\count300
+
+
+[37
+
+
+]
+
+[38
+
+]
+
+[39
+
+]
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 19.
+)
+
+[40
+
+] (document.aux (partials/cover.aux) (partials/innercover.aux) (body/abstract.aux) (body/acknowledgement.aux) (body/introduction.aux) (body/relatedworks.aux) (body/requirementanalysis.aux) (body/softwarearchitecture.aux) (body/softwaredevelopment.aux) (body/deliverable.aux) (body/discussion.aux) (body/appendices.aux))
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `document.out' has not changed.
+(rerunfilecheck)             Checksum: 77389C5FD6D2C304D929F620401B7D1B;6964.
+ ) 
+Here is how much of TeX's memory you used:
+ 15777 strings out of 473523
+ 273311 string characters out of 5716083
+ 700750 words of memory out of 5000000
+ 38171 multiletter control sequences out of 15000+600000
+ 651232 words of font info for 351 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,12n,79p,1061b,853s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmb8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmr8a.pfb><C:/Users/PC/AppData/Local/Programs/MiKTeX/fonts/type1/urw/times/utmri8a.pfb>
+Output written on document.pdf (48 pages, 6441502 bytes).
+PDF statistics:
+ 670 PDF objects out of 1000 (max. 8388607)
+ 167 named destinations out of 1000 (max. 500000)
+ 117720 words of extra memory for PDF output out of 128383 (max. 10000000)
+

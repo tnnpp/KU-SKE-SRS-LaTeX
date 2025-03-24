@@ -1,0 +1,93 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: document.aux
+Reallocating 'name_of_file' (item size: 1) to 19 items.
+A level-1 auxiliary file: partials/cover.aux
+Reallocating 'name_of_file' (item size: 1) to 24 items.
+A level-1 auxiliary file: partials/innercover.aux
+Reallocating 'name_of_file' (item size: 1) to 18 items.
+A level-1 auxiliary file: body/abstract.aux
+Reallocating 'name_of_file' (item size: 1) to 25 items.
+A level-1 auxiliary file: body/acknowledgement.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: body/introduction.aux
+Reallocating 'name_of_file' (item size: 1) to 22 items.
+A level-1 auxiliary file: body/relatedworks.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: body/requirementanalysis.aux
+Reallocating 'name_of_file' (item size: 1) to 30 items.
+A level-1 auxiliary file: body/softwarearchitecture.aux
+Reallocating 'name_of_file' (item size: 1) to 29 items.
+A level-1 auxiliary file: body/softwaredevelopment.aux
+Reallocating 'name_of_file' (item size: 1) to 21 items.
+A level-1 auxiliary file: body/deliverable.aux
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: body/discussion.aux
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: IEEEtran.bst
+Reallocating 'name_of_file' (item size: 1) to 13 items.
+Reallocating 'name_of_file' (item size: 1) to 20 items.
+A level-1 auxiliary file: body/appendices.aux
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: bibliography.bib
+Warning--entry type for "FOMO:2" isn't style-file defined
+--line 195 of file bibliography.bib
+Warning--entry type for "AI:humanResource" isn't style-file defined
+--line 235 of file bibliography.bib
+-- IEEEtran.bst version 1.14 (2015/08/26) by Michael Shell.
+-- http://www.michaelshell.org/tex/ieeetran/bibtex/
+-- See the "IEEEtran_bst_HOWTO.pdf" manual for usage information.
+Warning--empty journal in ncbi:pmc10905147
+Warning--empty booktitle in gamification:designElement
+Warning--empty author in toxigon:bossFight
+Warning--empty journal in toxigon:bossFight
+Warning--empty booktitle in gamification:Education
+Warning--empty journal in medium:FOMO
+
+Done.
+You've used 13 entries,
+            4087 wiz_defined-function locations,
+            916 strings with 10177 characters,
+and the built_in function-call counts, 7475 in all, are:
+= -- 582
+> -- 142
+< -- 47
++ -- 80
+- -- 25
+* -- 355
+:= -- 1207
+add.period$ -- 26
+call.type$ -- 13
+change.case$ -- 13
+chr.to.int$ -- 105
+cite$ -- 19
+duplicate$ -- 569
+empty$ -- 641
+format.name$ -- 31
+if$ -- 1698
+int.to.chr$ -- 0
+int.to.str$ -- 13
+missing$ -- 101
+newline$ -- 72
+num.names$ -- 12
+pop$ -- 254
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 2
+skip$ -- 578
+stack$ -- 0
+substring$ -- 257
+swap$ -- 409
+text.length$ -- 12
+text.prefix$ -- 0
+top$ -- 5
+type$ -- 13
+warning$ -- 6
+while$ -- 28
+width$ -- 15
+write$ -- 144
+(There were 8 warnings)

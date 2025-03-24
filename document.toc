@@ -1,0 +1,48 @@
+ \relax \fontsize {16}{20.74}\selectfont \noindent \textbf {Content}\hfill \textbf {Page}\par \addvspace {.2in} \relax \fontsize {14.4}{17}\selectfont \abovedisplayskip 14\p@ plus3\p@ minus7\p@ \abovedisplayshortskip \z@ plus4\p@ \belowdisplayshortskip 7\p@ plus4\p@ minus3\p@ \belowdisplayskip \abovedisplayskip \let \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ \leftmargin \leftmargini \parsep 4\p@ plus2\p@ minus\p@ \topsep 8\p@ plus2\p@ minus4\p@ \itemsep 4\p@ plus2\p@ minus\p@ 
+\contentsline {chapter}{\nameref {chap:abstract}}{i}{chapter*.1}%
+\contentsline {chapter}{\nameref {chap:acknowledgement}}{ii}{chapter*.2}%
+\contentsline {chapter}{\nameref {chap:lot}}{v}{chapter*.4}%
+\contentsline {chapter}{\nameref {chap:lof}}{vi}{chapter*.5}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {1\hfil }\leftprotrusion Introduction}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Problem Statement}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Solution Overview}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Features}{3}{subsection.1.3.1}%
+\contentsline {section}{\numberline {1.4}Target User}{4}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Benefit}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Terminology}{6}{section.1.6}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {2\hfil }\leftprotrusion Literature Review and Related Work}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Competitor Analysis}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Literature Review}{12}{section.2.2}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {3\hfil }\leftprotrusion Requirement Analysis}{16}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Stakeholder Analysis}{16}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Types of Stakeholders}{16}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Stakeholder Importance}{17}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Stakeholder Analysis}{18}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}User Stories}{19}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Boss Battle Workflow}{19}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Success Meter}{19}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Flow Track}{19}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Target Users' Needs}{20}{subsection.3.2.4}%
+\contentsline {section}{\numberline {3.3}Use Case Diagram}{20}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Use Case Model}{20}{section.3.4}%
+\contentsline {section}{\numberline {3.5}User Interface Design}{21}{section.3.5}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {4\hfil }\leftprotrusion Software Architecture Design}{23}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Domain Model}{23}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Design Class Diagram}{23}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Sequence Diagram}{23}{section.4.3}%
+\contentsline {section}{\numberline {4.4}Artificial Intelligence}{24}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}AI Techniques Used}{27}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}Example Usage}{28}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}Algorithm}{29}{section.4.5}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {5\hfil }\leftprotrusion Software Development}{30}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Software Development Methodology}{30}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Technology Stack}{30}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Coding Standards}{31}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Progress Tracking Report}{31}{section.5.4}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {6\hfil }\leftprotrusion Deliverable}{32}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Software Solution}{32}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Test Report}{32}{section.6.2}%
+\contentsline {chapter}{Chapter \hbox to\@tempdima {7\hfil }\leftprotrusion Conclusion and Discussion}{33}{chapter.7}%
+\contentsline {chapter}{Appendix A: Example}{38}{chapter*.7}%
+\contentsline {chapter}{Appendix B: About \LaTeX }{40}{chapter*.8}%
